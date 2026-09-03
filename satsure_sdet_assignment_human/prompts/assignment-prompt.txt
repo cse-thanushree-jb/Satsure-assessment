@@ -1,0 +1,16 @@
+Review the attached SDET practical assignment and SatSure SDET job description.
+
+Prepare a complete submission that follows the assignment exactly:
+- requirement analysis
+- top 10 risk-ranked test scenarios
+- defect identification from the supplied API response
+- at least 8 detailed UI/API test cases
+- executable Playwright automation using Page Object Model
+- API automation with schema, type, timestamp, locale and suggestion-list validation
+- at least 2 negative API tests
+- README with setup and run instructions
+- architecture discussion
+- AI usage/reflection
+- prompt and transcript files
+
+Keep the written answers practical and natural, like a software test engineer wrote them. Do not claim that tests were executed against a live environment unless an actual environment/result is provided. Use the assignment's supplied requirements and examples as the source of truth.

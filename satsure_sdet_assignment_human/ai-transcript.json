@@ -1,0 +1,37 @@
+{
+  "note": "Assignment-related visible conversation transcript. Internal system instructions and private tool details are not included.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Uploaded the SDET practical assignment and SatSure SDET job description."
+    },
+    {
+      "role": "assistant",
+      "content": "Reviewed the assignment and job description."
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "Prepared an initial complete assignment package."
+    },
+    {
+      "role": "user",
+      "content": "in sdet assignment zip file answer is not like ai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Agreed that the written answers could be made more natural and practical, and proposed rewriting the package in a human SDET style."
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "Reworked the assignment to use simpler, practical, candidate-style language and clearer requirement-specific reasoning."
+    }
+  ]
+}
